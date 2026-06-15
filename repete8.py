@@ -1,0 +1,11 @@
+# LAÇO INFINITO - SEM INCREMENTO
+
+contagem = 1   # valor inicial
+
+while contagem <= 100 :  # teste lógico
+    
+    print(contagem)
+    
+    # incremento ??????????????? kd?????
+    
+    
